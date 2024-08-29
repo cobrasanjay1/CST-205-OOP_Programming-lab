@@ -3,13 +3,13 @@
 This repository contains Java-based lab exercises for the CST-205 course, focused on Object-Oriented Programming (OOP).
 
 ## Table of Contents
-Introduction
-Lab Structure
-Technologies Used
-Installation
-Usage
-Contributing
-License
+--Introduction
+--Lab Structure
+--Technologies Used
+--Installation
+--Usage
+--Contributing
+--License
 
 ## Introduction
 This repository includes lab exercises designed to enhance understanding of core Object-Oriented Programming (OOP) concepts using Java.
@@ -24,21 +24,20 @@ Java
 
 ## Installation
 To get started with this repository, clone it to your local machine using:
-
-bash
-Copy code
+```bash
 git clone https://github.com/Cobra-Sanjay/CST-205-OOP_Programming-lab.git
 cd CST-205-OOP_Programming-lab
+```
 
 ## Usage
 Navigate to the desired Java file.
 
 Compile and run the Java programs using:
 
-bash
-Copy code
+```bash
 javac FileName.java
 java FileName
+```
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to add new features, feel free to create an issue or submit a pull request.
