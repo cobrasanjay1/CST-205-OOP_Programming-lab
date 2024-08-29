@@ -1,8 +1,8 @@
-### CST-205: Object-Oriented Programming Lab
+# CST-205: Object-Oriented Programming Lab
 
 This repository contains Java-based lab exercises for the CST-205 course, focused on Object-Oriented Programming (OOP).
 
-### Table of Contents
+## Table of Contents
 Introduction
 Lab Structure
 Technologies Used
